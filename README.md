@@ -16,3 +16,4 @@ login – developer21, password – 123456,
 Проект тестового задания, необходимо выложить в публичный репозиторий github сервиса
 
   ### Link to Github Page
+https://yaros-love.github.io/urban-smart_GP/#/
